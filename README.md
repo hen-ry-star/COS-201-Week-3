@@ -1,3 +1,8 @@
+COS 201 - Computer Programming I
+
+Student Details
+
+
 Name: kolade Henry  Matric Number: 25/18657 Programme: Computer science Institution: Caleb University Course Code: COS 201 Course Title: Computer Programming I Tools Used
 
 Java Development Kit (JDK) Visual Studio Code Git and GitHub Desktop Week 1: Introduction to Programming and Problem-Solving
